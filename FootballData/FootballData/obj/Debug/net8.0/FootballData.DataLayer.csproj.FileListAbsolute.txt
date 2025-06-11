@@ -1,0 +1,396 @@
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\FootballData.DataLayer.deps.json
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\FootballData.DataLayer.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.AssemblyInfoInputs.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.AssemblyInfo.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\refint\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\ref\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.csproj.AssemblyReference.cache
+C:\Users\pazna\Downloads\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\FootballData.DataLayer.deps.json
+C:\Users\pazna\Downloads\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\FootballData.DataLayer.dll
+C:\Users\pazna\Downloads\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\FootballData.DataLayer.pdb
+C:\Users\pazna\Downloads\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.csproj.AssemblyReference.cache
+C:\Users\pazna\Downloads\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pazna\Downloads\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.AssemblyInfoInputs.cache
+C:\Users\pazna\Downloads\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.AssemblyInfo.cs
+C:\Users\pazna\Downloads\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\pazna\Downloads\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.dll
+C:\Users\pazna\Downloads\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\refint\FootballData.DataLayer.dll
+C:\Users\pazna\Downloads\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.pdb
+C:\Users\pazna\Downloads\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\ref\FootballData.DataLayer.dll
+C:\Users\pazna\Downloads\OOP\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\FootballData.DataLayer.deps.json
+C:\Users\pazna\Downloads\OOP\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\FootballData.DataLayer.dll
+C:\Users\pazna\Downloads\OOP\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\FootballData.DataLayer.pdb
+C:\Users\pazna\Downloads\OOP\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.csproj.AssemblyReference.cache
+C:\Users\pazna\Downloads\OOP\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pazna\Downloads\OOP\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.AssemblyInfoInputs.cache
+C:\Users\pazna\Downloads\OOP\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.AssemblyInfo.cs
+C:\Users\pazna\Downloads\OOP\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\pazna\Downloads\OOP\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.dll
+C:\Users\pazna\Downloads\OOP\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\refint\FootballData.DataLayer.dll
+C:\Users\pazna\Downloads\OOP\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.pdb
+C:\Users\pazna\Downloads\OOP\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\ref\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\OOP2\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\FootballData.DataLayer.deps.json
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\OOP2\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\OOP2\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\FootballData.DataLayer.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\OOP2\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.csproj.AssemblyReference.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\OOP2\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\OOP2\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.AssemblyInfoInputs.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\OOP2\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.AssemblyInfo.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\OOP2\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\OOP2\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\OOP2\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\refint\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\OOP2\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\OOP2\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\ref\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\OOP2 - vuce samo Akinfeev\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\FootballData.DataLayer.deps.json
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\OOP2 - vuce samo Akinfeev\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\OOP2 - vuce samo Akinfeev\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\FootballData.DataLayer.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\OOP2 - vuce samo Akinfeev\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.csproj.AssemblyReference.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\OOP2 - vuce samo Akinfeev\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\OOP2 - vuce samo Akinfeev\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.AssemblyInfoInputs.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\OOP2 - vuce samo Akinfeev\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.AssemblyInfo.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\OOP2 - vuce samo Akinfeev\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\OOP2 - vuce samo Akinfeev\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\OOP2 - vuce samo Akinfeev\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\refint\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\OOP2 - vuce samo Akinfeev\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\OOP2 - vuce samo Akinfeev\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\ref\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\OOP2 - vuce samo Akinfeev - Copy\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\FootballData.DataLayer.deps.json
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\OOP2 - vuce samo Akinfeev - Copy\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\OOP2 - vuce samo Akinfeev - Copy\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\FootballData.DataLayer.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\OOP2 - vuce samo Akinfeev - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.csproj.AssemblyReference.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\OOP2 - vuce samo Akinfeev - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\OOP2 - vuce samo Akinfeev - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.AssemblyInfoInputs.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\OOP2 - vuce samo Akinfeev - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.AssemblyInfo.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\OOP2 - vuce samo Akinfeev - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\OOP2 - vuce samo Akinfeev - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\OOP2 - vuce samo Akinfeev - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\refint\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\OOP2 - vuce samo Akinfeev - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\OOP2 - vuce samo Akinfeev - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\ref\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\OOP2 - vuce sve igrace ali ne radi id u cb\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\FootballData.DataLayer.deps.json
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\OOP2 - vuce sve igrace ali ne radi id u cb\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\OOP2 - vuce sve igrace ali ne radi id u cb\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\FootballData.DataLayer.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\OOP2 - vuce sve igrace ali ne radi id u cb\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.csproj.AssemblyReference.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\OOP2 - vuce sve igrace ali ne radi id u cb\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\OOP2 - vuce sve igrace ali ne radi id u cb\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.AssemblyInfoInputs.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\OOP2 - vuce sve igrace ali ne radi id u cb\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.AssemblyInfo.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\OOP2 - vuce sve igrace ali ne radi id u cb\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\OOP2 - vuce sve igrace ali ne radi id u cb\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\OOP2 - vuce sve igrace ali ne radi id u cb\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\refint\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\OOP2 - vuce sve igrace ali ne radi id u cb\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\OOP2 - vuce sve igrace ali ne radi id u cb\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\ref\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\OOP2 - vuce sve igrace ali ne radi id u cb - Copy\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\FootballData.DataLayer.deps.json
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\OOP2 - vuce sve igrace ali ne radi id u cb - Copy\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\OOP2 - vuce sve igrace ali ne radi id u cb - Copy\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\FootballData.DataLayer.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\OOP2 - vuce sve igrace ali ne radi id u cb - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.csproj.AssemblyReference.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\OOP2 - vuce sve igrace ali ne radi id u cb - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\OOP2 - vuce sve igrace ali ne radi id u cb - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.AssemblyInfoInputs.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\OOP2 - vuce sve igrace ali ne radi id u cb - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.AssemblyInfo.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\OOP2 - vuce sve igrace ali ne radi id u cb - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\OOP2 - vuce sve igrace ali ne radi id u cb - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\OOP2 - vuce sve igrace ali ne radi id u cb - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\refint\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\OOP2 - vuce sve igrace ali ne radi id u cb - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\OOP2 - vuce sve igrace ali ne radi id u cb - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\ref\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\OOP - radi sve za sada - Copy\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\FootballData.DataLayer.deps.json
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\OOP - radi sve za sada - Copy\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\OOP - radi sve za sada - Copy\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\FootballData.DataLayer.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\OOP - radi sve za sada - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.csproj.AssemblyReference.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\OOP - radi sve za sada - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\OOP - radi sve za sada - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.AssemblyInfoInputs.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\OOP - radi sve za sada - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.AssemblyInfo.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\OOP - radi sve za sada - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\OOP - radi sve za sada - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\OOP - radi sve za sada - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\refint\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\OOP - radi sve za sada - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\OOP - radi sve za sada - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\ref\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\RadiOvdje\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\FootballData.DataLayer.deps.json
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\RadiOvdje\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\RadiOvdje\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\FootballData.DataLayer.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\RadiOvdje\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.csproj.AssemblyReference.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\RadiOvdje\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\RadiOvdje\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.AssemblyInfoInputs.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\RadiOvdje\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.AssemblyInfo.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\RadiOvdje\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\RadiOvdje\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\RadiOvdje\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\refint\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\RadiOvdje\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\RadiOvdje\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\ref\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠabanž\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\FootballData.DataLayer.deps.json
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠabanž\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠabanž\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\FootballData.DataLayer.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠabanž\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.csproj.AssemblyReference.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠabanž\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠabanž\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.AssemblyInfoInputs.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠabanž\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.AssemblyInfo.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠabanž\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠabanž\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠabanž\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\refint\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠabanž\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠabanž\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\ref\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - Radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\FootballData.DataLayer.deps.json
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - Radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - Radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\FootballData.DataLayer.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - Radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.csproj.AssemblyReference.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - Radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - Radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.AssemblyInfoInputs.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - Radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.AssemblyInfo.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - Radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - Radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - Radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\refint\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - Radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - Radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\ref\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - Radi ovdje - Copy\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\FootballData.DataLayer.deps.json
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - Radi ovdje - Copy\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - Radi ovdje - Copy\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\FootballData.DataLayer.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - Radi ovdje - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.csproj.AssemblyReference.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - Radi ovdje - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - Radi ovdje - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.AssemblyInfoInputs.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - Radi ovdje - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.AssemblyInfo.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - Radi ovdje - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - Radi ovdje - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - Radi ovdje - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\refint\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - Radi ovdje - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - Radi ovdje - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\ref\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdj\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\FootballData.DataLayer.deps.json
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdj\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdj\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\FootballData.DataLayer.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdj\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.csproj.AssemblyReference.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdj\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdj\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.AssemblyInfoInputs.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdj\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.AssemblyInfo.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdj\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdj\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdj\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\refint\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdj\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdj\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\ref\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\FootballData.DataLayer.deps.json
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\FootballData.DataLayer.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.csproj.AssemblyReference.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.AssemblyInfoInputs.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.AssemblyInfo.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\refint\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\ref\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - Copy\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\FootballData.DataLayer.deps.json
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - Copy\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - Copy\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\FootballData.DataLayer.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.csproj.AssemblyReference.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.AssemblyInfoInputs.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.AssemblyInfo.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\refint\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\ref\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\en\FootballData.DataLayer.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\hr\FootballData.DataLayer.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.Properties.Resources.resources
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.Properties.Strings.en.resources
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.Properties.Strings.hr.resources
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.csproj.GenerateResource.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\en\FootballData.DataLayer.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\hr\FootballData.DataLayer.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy - Copy\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\FootballData.DataLayer.deps.json
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy - Copy\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy - Copy\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\FootballData.DataLayer.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy - Copy\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\en\FootballData.DataLayer.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy - Copy\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\hr\FootballData.DataLayer.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.csproj.AssemblyReference.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.Properties.Resources.resources
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.Properties.Strings.en.resources
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.Properties.Strings.hr.resources
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.csproj.GenerateResource.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.AssemblyInfoInputs.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.AssemblyInfo.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\en\FootballData.DataLayer.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\hr\FootballData.DataLayer.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\refint\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\ref\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - tu radi\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\FootballData.DataLayer.deps.json
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - tu radi\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - tu radi\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\FootballData.DataLayer.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - tu radi\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\en\FootballData.DataLayer.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - tu radi\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\hr\FootballData.DataLayer.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - tu radi\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.csproj.AssemblyReference.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - tu radi\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.Properties.Resources.resources
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - tu radi\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.Properties.Strings.en.resources
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - tu radi\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.Properties.Strings.hr.resources
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - tu radi\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.csproj.GenerateResource.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - tu radi\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - tu radi\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.AssemblyInfoInputs.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - tu radi\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.AssemblyInfo.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - tu radi\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - tu radi\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\en\FootballData.DataLayer.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - tu radi\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\hr\FootballData.DataLayer.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - tu radi\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - tu radi\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\refint\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - tu radi\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - tu radi\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\ref\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\FootballData.DataLayer.deps.json
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\FootballData.DataLayer.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\en\FootballData.DataLayer.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\hr\FootballData.DataLayer.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.csproj.AssemblyReference.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.Properties.Resources.resources
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.Properties.Strings.en.resources
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.Properties.Strings.hr.resources
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.csproj.GenerateResource.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.AssemblyInfoInputs.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.AssemblyInfo.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\en\FootballData.DataLayer.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\hr\FootballData.DataLayer.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\refint\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\ref\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve -radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\FootballData.DataLayer.deps.json
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve -radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve -radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\FootballData.DataLayer.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve -radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\en\FootballData.DataLayer.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve -radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\hr\FootballData.DataLayer.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve -radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.csproj.AssemblyReference.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve -radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.Properties.Resources.resources
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve -radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.Properties.Strings.en.resources
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve -radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.Properties.Strings.hr.resources
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve -radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.csproj.GenerateResource.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve -radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve -radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.AssemblyInfoInputs.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve -radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.AssemblyInfo.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve -radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve -radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\en\FootballData.DataLayer.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve -radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\hr\FootballData.DataLayer.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve -radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve -radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\refint\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve -radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve -radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\ref\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\FootballData.DataLayer.deps.json
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\FootballData.DataLayer.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.csproj.AssemblyReference.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.Properties.Resources.resources
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.csproj.GenerateResource.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.AssemblyInfoInputs.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.AssemblyInfo.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\refint\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\ref\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\FootballData.DataLayer.deps.json
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\FootballData.DataLayer.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\en\FootballData.DataLayer.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\hr\FootballData.DataLayer.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.csproj.AssemblyReference.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.Properties.Resources.resources
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.Properties.Strings.en.resources
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.Properties.Strings.hr.resources
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.csproj.GenerateResource.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.AssemblyInfoInputs.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.AssemblyInfo.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\en\FootballData.DataLayer.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\hr\FootballData.DataLayer.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\refint\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\ref\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\FootballData.DataLayer.deps.json
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\FootballData.DataLayer.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\en\FootballData.DataLayer.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\hr\FootballData.DataLayer.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.csproj.AssemblyReference.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.Properties.Resources.resources
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.Properties.Strings.en.resources
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.Properties.Strings.hr.resources
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.csproj.GenerateResource.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.AssemblyInfoInputs.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.AssemblyInfo.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\en\FootballData.DataLayer.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\hr\FootballData.DataLayer.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\refint\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\ref\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje!\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\FootballData.DataLayer.deps.json
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje!\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje!\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\FootballData.DataLayer.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje!\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\en\FootballData.DataLayer.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje!\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\hr\FootballData.DataLayer.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje!\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.csproj.AssemblyReference.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje!\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.Properties.Resources.resources
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje!\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.Properties.Strings.en.resources
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje!\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.Properties.Strings.hr.resources
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje!\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.csproj.GenerateResource.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje!\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje!\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.AssemblyInfoInputs.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje!\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.AssemblyInfo.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje!\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje!\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\en\FootballData.DataLayer.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje!\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\hr\FootballData.DataLayer.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje!\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje!\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\refint\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje!\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje!\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\ref\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\FootballData.DataLayer.deps.json
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik\FootballData\FootballData\bin\Debug\net8.0\FootballData.DataLayer.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.csproj.AssemblyReference.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.Properties.Resources.resources
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.csproj.GenerateResource.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.AssemblyInfoInputs.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.AssemblyInfo.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\refint\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik\FootballData\FootballData\obj\Debug\net8.0\ref\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy\FootballData\FootballData\bin\Debug\net8.0\FootballData.DataLayer.deps.json
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy\FootballData\FootballData\bin\Debug\net8.0\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy\FootballData\FootballData\bin\Debug\net8.0\FootballData.DataLayer.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.csproj.AssemblyReference.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.Properties.Resources.resources
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.csproj.GenerateResource.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.AssemblyInfoInputs.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.AssemblyInfo.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy\FootballData\FootballData\obj\Debug\net8.0\refint\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy\FootballData\FootballData\obj\Debug\net8.0\ref\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban\FootballData\FootballData\bin\Debug\net8.0\FootballData.DataLayer.deps.json
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban\FootballData\FootballData\bin\Debug\net8.0\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban\FootballData\FootballData\bin\Debug\net8.0\FootballData.DataLayer.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.csproj.AssemblyReference.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.Properties.Resources.resources
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.csproj.GenerateResource.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.AssemblyInfoInputs.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.AssemblyInfo.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban\FootballData\FootballData\obj\Debug\net8.0\refint\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban\FootballData\FootballData\obj\Debug\net8.0\FootballData.DataLayer.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban\FootballData\FootballData\obj\Debug\net8.0\ref\FootballData.DataLayer.dll

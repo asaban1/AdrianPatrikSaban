@@ -1,0 +1,963 @@
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WinForms.deps.json
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WinForms.runtimeconfig.json
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WinForms.exe
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WPF.exe
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WPF.deps.json
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WPF.runtimeconfig.json
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WPF.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WPF.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Common.Logging.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Common.Logging.Core.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\CsvHelper.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.barcodes.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.bouncy-castle-connector.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.forms.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.io.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.kernel.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.layout.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.pdfa.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.pdfua.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.sign.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.styledxmlparser.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.svg.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.bouncy-castle-adapter.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.commons.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\BouncyCastle.Crypto.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WinForms.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WinForms.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.DataLayer.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\en\FootballData.WinForms.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\hr\FootballData.WinForms.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.csproj.AssemblyReference.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\SettingsWindow.baml
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\SettingsWindow.g.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF_MarkupCompile.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.g.resources
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.AssemblyInfoInputs.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.AssemblyInfo.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.csproj.CoreCompileInputs.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\Football.B73C1F19.Up2Date
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\refint\FootballData.WPF.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.genruntimeconfig.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\ref\FootballData.WPF.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WinForms.deps.json
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WinForms.runtimeconfig.json
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WinForms.exe
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WPF.exe
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WPF.deps.json
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WPF.runtimeconfig.json
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WPF.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WPF.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Common.Logging.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Common.Logging.Core.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\CsvHelper.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.barcodes.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.bouncy-castle-connector.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.forms.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.io.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.kernel.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.layout.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.pdfa.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.pdfua.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.sign.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.styledxmlparser.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.svg.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.bouncy-castle-adapter.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.commons.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\BouncyCastle.Crypto.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WinForms.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WinForms.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.DataLayer.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\en\FootballData.WinForms.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\hr\FootballData.WinForms.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.csproj.AssemblyReference.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\SettingsWindow.baml
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\SettingsWindow.g.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF_MarkupCompile.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.g.resources
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.AssemblyInfoInputs.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.AssemblyInfo.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.csproj.CoreCompileInputs.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\Football.B73C1F19.Up2Date
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\refint\FootballData.WPF.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.genruntimeconfig.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\ref\FootballData.WPF.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\en\FootballData.DataLayer.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\hr\FootballData.DataLayer.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WinForms.deps.json
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WinForms.runtimeconfig.json
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WinForms.exe
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WPF.exe
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WPF.deps.json
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WPF.runtimeconfig.json
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WPF.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WPF.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Common.Logging.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Common.Logging.Core.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\CsvHelper.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.barcodes.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.bouncy-castle-connector.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.forms.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.io.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.kernel.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.layout.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.pdfa.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.pdfua.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.sign.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.styledxmlparser.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.svg.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.bouncy-castle-adapter.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.commons.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\BouncyCastle.Crypto.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WinForms.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WinForms.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.DataLayer.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\en\FootballData.WinForms.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\hr\FootballData.WinForms.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\en\FootballData.DataLayer.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\hr\FootballData.DataLayer.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.csproj.AssemblyReference.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\SettingsWindow.baml
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\SettingsWindow.g.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF_MarkupCompile.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.g.resources
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.AssemblyInfoInputs.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.AssemblyInfo.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.csproj.CoreCompileInputs.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\Football.B73C1F19.Up2Date
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\refint\FootballData.WPF.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.genruntimeconfig.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - radi ovdje - Copy - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\ref\FootballData.WPF.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - tu radi\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WinForms.deps.json
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - tu radi\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WinForms.runtimeconfig.json
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - tu radi\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WinForms.exe
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - tu radi\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WPF.exe
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - tu radi\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WPF.deps.json
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - tu radi\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WPF.runtimeconfig.json
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - tu radi\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WPF.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - tu radi\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WPF.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - tu radi\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - tu radi\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Common.Logging.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - tu radi\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Common.Logging.Core.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - tu radi\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\CsvHelper.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - tu radi\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.barcodes.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - tu radi\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.bouncy-castle-connector.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - tu radi\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.forms.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - tu radi\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.io.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - tu radi\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.kernel.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - tu radi\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.layout.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - tu radi\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.pdfa.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - tu radi\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.pdfua.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - tu radi\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.sign.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - tu radi\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.styledxmlparser.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - tu radi\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.svg.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - tu radi\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.bouncy-castle-adapter.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - tu radi\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.commons.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - tu radi\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - tu radi\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - tu radi\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - tu radi\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - tu radi\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - tu radi\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - tu radi\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - tu radi\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - tu radi\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - tu radi\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - tu radi\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - tu radi\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - tu radi\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\BouncyCastle.Crypto.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - tu radi\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - tu radi\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WinForms.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - tu radi\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WinForms.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - tu radi\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.DataLayer.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - tu radi\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\en\FootballData.WinForms.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - tu radi\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\hr\FootballData.WinForms.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - tu radi\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\en\FootballData.DataLayer.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - tu radi\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\hr\FootballData.DataLayer.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - tu radi\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.csproj.AssemblyReference.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - tu radi\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - tu radi\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\SettingsWindow.baml
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - tu radi\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - tu radi\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\SettingsWindow.g.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - tu radi\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - tu radi\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF_MarkupCompile.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - tu radi\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.g.resources
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - tu radi\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - tu radi\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.AssemblyInfoInputs.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - tu radi\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.AssemblyInfo.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - tu radi\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.csproj.CoreCompileInputs.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - tu radi\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\Football.B73C1F19.Up2Date
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - tu radi\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - tu radi\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\refint\FootballData.WPF.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - tu radi\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - tu radi\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.genruntimeconfig.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - tu radi\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\ref\FootballData.WPF.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WinForms.deps.json
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WinForms.runtimeconfig.json
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WinForms.exe
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WPF.exe
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WPF.deps.json
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WPF.runtimeconfig.json
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WPF.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WPF.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Common.Logging.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Common.Logging.Core.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\CsvHelper.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.barcodes.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.bouncy-castle-connector.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.forms.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.io.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.kernel.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.layout.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.pdfa.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.pdfua.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.sign.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.styledxmlparser.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.svg.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.bouncy-castle-adapter.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.commons.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\BouncyCastle.Crypto.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WinForms.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WinForms.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.DataLayer.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\en\FootballData.WinForms.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\hr\FootballData.WinForms.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\en\FootballData.DataLayer.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\hr\FootballData.DataLayer.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.csproj.AssemblyReference.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\SettingsWindow.baml
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\SettingsWindow.g.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF_MarkupCompile.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.g.resources
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.AssemblyInfoInputs.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.AssemblyInfo.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.csproj.CoreCompileInputs.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\Football.B73C1F19.Up2Date
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\refint\FootballData.WPF.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.genruntimeconfig.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\ref\FootballData.WPF.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve -radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WinForms.deps.json
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve -radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WinForms.runtimeconfig.json
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve -radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WinForms.exe
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve -radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WPF.exe
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve -radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WPF.deps.json
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve -radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WPF.runtimeconfig.json
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve -radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WPF.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve -radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WPF.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve -radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve -radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Common.Logging.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve -radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Common.Logging.Core.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve -radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\CsvHelper.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve -radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.barcodes.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve -radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.bouncy-castle-connector.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve -radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.forms.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve -radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.io.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve -radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.kernel.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve -radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.layout.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve -radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.pdfa.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve -radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.pdfua.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve -radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.sign.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve -radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.styledxmlparser.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve -radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.svg.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve -radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.bouncy-castle-adapter.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve -radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.commons.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve -radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve -radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve -radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve -radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve -radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve -radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve -radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve -radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve -radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve -radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve -radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve -radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve -radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\BouncyCastle.Crypto.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve -radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve -radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WinForms.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve -radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WinForms.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve -radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.DataLayer.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve -radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\en\FootballData.WinForms.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve -radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\hr\FootballData.WinForms.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve -radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\en\FootballData.DataLayer.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve -radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\hr\FootballData.DataLayer.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve -radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.csproj.AssemblyReference.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve -radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve -radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\SettingsWindow.baml
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve -radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve -radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\SettingsWindow.g.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve -radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve -radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF_MarkupCompile.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve -radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.g.resources
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve -radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve -radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.AssemblyInfoInputs.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve -radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.AssemblyInfo.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve -radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.csproj.CoreCompileInputs.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve -radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\Football.B73C1F19.Up2Date
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve -radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve -radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\refint\FootballData.WPF.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve -radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve -radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.genruntimeconfig.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve -radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\ref\FootballData.WPF.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WinForms.deps.json
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WinForms.runtimeconfig.json
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WinForms.exe
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WPF.exe
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WPF.deps.json
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WPF.runtimeconfig.json
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WPF.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WPF.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Common.Logging.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Common.Logging.Core.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\CsvHelper.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.barcodes.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.bouncy-castle-connector.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.forms.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.io.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.kernel.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.layout.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.pdfa.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.pdfua.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.sign.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.styledxmlparser.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.svg.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.bouncy-castle-adapter.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.commons.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\BouncyCastle.Crypto.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WinForms.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WinForms.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.DataLayer.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\en\FootballData.WinForms.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\hr\FootballData.WinForms.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.csproj.AssemblyReference.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\SettingsWindow.baml
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\SettingsWindow.g.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF_MarkupCompile.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.g.resources
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.AssemblyInfoInputs.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.AssemblyInfo.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.csproj.CoreCompileInputs.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\Football.B73C1F19.Up2Date
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\refint\FootballData.WPF.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.genruntimeconfig.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\ref\FootballData.WPF.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WinForms.deps.json
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WinForms.runtimeconfig.json
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WinForms.exe
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WPF.exe
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WPF.deps.json
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WPF.runtimeconfig.json
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WPF.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WPF.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Common.Logging.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Common.Logging.Core.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\CsvHelper.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.barcodes.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.bouncy-castle-connector.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.forms.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.io.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.kernel.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.layout.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.pdfa.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.pdfua.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.sign.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.styledxmlparser.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.svg.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.bouncy-castle-adapter.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.commons.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\BouncyCastle.Crypto.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WinForms.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WinForms.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.DataLayer.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\en\FootballData.WinForms.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\hr\FootballData.WinForms.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\en\FootballData.DataLayer.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\hr\FootballData.DataLayer.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.csproj.AssemblyReference.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\SettingsWindow.baml
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\SettingsWindow.g.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF_MarkupCompile.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.g.resources
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.AssemblyInfoInputs.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.AssemblyInfo.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.csproj.CoreCompileInputs.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\Football.B73C1F19.Up2Date
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\refint\FootballData.WPF.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.genruntimeconfig.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\ref\FootballData.WPF.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\TeamInfoWindow.baml
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\TeamInfoWindow.g.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WinForms.deps.json
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WinForms.runtimeconfig.json
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WinForms.exe
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WPF.exe
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WPF.deps.json
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WPF.runtimeconfig.json
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WPF.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WPF.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Common.Logging.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Common.Logging.Core.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\CsvHelper.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.barcodes.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.bouncy-castle-connector.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.forms.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.io.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.kernel.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.layout.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.pdfa.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.pdfua.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.sign.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.styledxmlparser.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.svg.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.bouncy-castle-adapter.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.commons.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\BouncyCastle.Crypto.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WinForms.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WinForms.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.DataLayer.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\en\FootballData.WinForms.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\hr\FootballData.WinForms.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\en\FootballData.DataLayer.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\hr\FootballData.DataLayer.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.csproj.AssemblyReference.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\SettingsWindow.baml
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\TeamInfoWindow.baml
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\SettingsWindow.g.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\TeamInfoWindow.g.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF_MarkupCompile.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.g.resources
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.AssemblyInfoInputs.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.AssemblyInfo.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.csproj.CoreCompileInputs.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\Football.B73C1F19.Up2Date
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\refint\FootballData.WPF.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.genruntimeconfig.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\ref\FootballData.WPF.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\PlayerControl.g.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\PlayerControl.baml
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje!\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WinForms.deps.json
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje!\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WinForms.runtimeconfig.json
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje!\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WinForms.exe
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje!\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WPF.exe
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje!\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WPF.deps.json
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje!\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WPF.runtimeconfig.json
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje!\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WPF.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje!\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WPF.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje!\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje!\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Common.Logging.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje!\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Common.Logging.Core.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje!\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\CsvHelper.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje!\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.barcodes.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje!\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.bouncy-castle-connector.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje!\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.forms.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje!\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.io.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje!\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.kernel.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje!\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.layout.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje!\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.pdfa.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje!\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.pdfua.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje!\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.sign.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje!\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.styledxmlparser.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje!\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.svg.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje!\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.bouncy-castle-adapter.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje!\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.commons.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje!\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje!\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje!\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje!\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje!\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje!\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje!\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje!\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje!\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje!\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje!\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje!\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje!\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\BouncyCastle.Crypto.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje!\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje!\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WinForms.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje!\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WinForms.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje!\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.DataLayer.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje!\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\en\FootballData.WinForms.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje!\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\hr\FootballData.WinForms.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje!\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\en\FootballData.DataLayer.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje!\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\hr\FootballData.DataLayer.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje!\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.csproj.AssemblyReference.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje!\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje!\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\PlayerControl.baml
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje!\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\SettingsWindow.baml
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje!\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\TeamInfoWindow.baml
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje!\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje!\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\PlayerControl.g.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje!\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\SettingsWindow.g.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje!\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\TeamInfoWindow.g.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje!\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje!\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF_MarkupCompile.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje!\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.g.resources
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje!\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje!\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.AssemblyInfoInputs.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje!\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.AssemblyInfo.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje!\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.csproj.CoreCompileInputs.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje!\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\Football.B73C1F19.Up2Date
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje!\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje!\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\refint\FootballData.WPF.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje!\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje!\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.genruntimeconfig.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje!\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\ref\FootballData.WPF.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\PlayerControl.baml
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\TeamInfoWindow.baml
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\PlayerControl.g.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\TeamInfoWindow.g.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\PlayerControl.baml
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - Copy\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\PlayerControl.g.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\PlayerStats.baml
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\PlayerStats.g.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\PlayerStats.baml
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\PlayerStats.g.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.Properties.Strings2.en.resources
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.csproj.GenerateResource.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\en\FootballData.WPF.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\en\FootballData.WPF.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\hr\FootballData.WPF.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.Properties.Strings2.hr.resources
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban - sve - radi ovdje\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\hr\FootballData.WPF.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WinForms.deps.json
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WinForms.runtimeconfig.json
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WinForms.exe
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WPF.exe
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WPF.deps.json
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WPF.runtimeconfig.json
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WPF.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WPF.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\en\FootballData.WPF.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\hr\FootballData.WPF.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Common.Logging.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Common.Logging.Core.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\CsvHelper.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.barcodes.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.bouncy-castle-connector.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.forms.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.io.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.kernel.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.layout.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.pdfa.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.pdfua.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.sign.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.styledxmlparser.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.svg.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.bouncy-castle-adapter.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.commons.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\BouncyCastle.Crypto.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WinForms.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WinForms.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.DataLayer.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\en\FootballData.WinForms.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\hr\FootballData.WinForms.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.csproj.AssemblyReference.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\PlayerControl.baml
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\PlayerStats.baml
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\SettingsWindow.baml
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\TeamInfoWindow.baml
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\PlayerControl.g.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\PlayerStats.g.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\SettingsWindow.g.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\TeamInfoWindow.g.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF_MarkupCompile.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.g.resources
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.Properties.Strings2.en.resources
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.Properties.Strings2.hr.resources
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.csproj.GenerateResource.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.AssemblyInfoInputs.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.AssemblyInfo.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.csproj.CoreCompileInputs.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\en\FootballData.WPF.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\hr\FootballData.WPF.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\Football.B73C1F19.Up2Date
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\refint\FootballData.WPF.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.genruntimeconfig.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\ref\FootballData.WPF.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WinForms.deps.json
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WinForms.runtimeconfig.json
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WinForms.exe
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WPF.exe
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WPF.deps.json
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WPF.runtimeconfig.json
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WPF.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WPF.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\en\FootballData.WPF.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\hr\FootballData.WPF.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Common.Logging.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Common.Logging.Core.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\CsvHelper.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.barcodes.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.bouncy-castle-connector.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.forms.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.io.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.kernel.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.layout.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.pdfa.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.pdfua.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.sign.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.styledxmlparser.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.svg.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.bouncy-castle-adapter.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.commons.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\BouncyCastle.Crypto.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WinForms.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WinForms.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.DataLayer.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\en\FootballData.WinForms.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\hr\FootballData.WinForms.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.csproj.AssemblyReference.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\PlayerControl.baml
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\PlayerStats.baml
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\SettingsWindow.baml
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\TeamInfoWindow.baml
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\PlayerControl.g.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\PlayerStats.g.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\SettingsWindow.g.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\TeamInfoWindow.g.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF_MarkupCompile.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.g.resources
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.Properties.Strings2.en.resources
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.Properties.Strings2.hr.resources
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.csproj.GenerateResource.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.AssemblyInfoInputs.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.AssemblyInfo.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.csproj.CoreCompileInputs.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\en\FootballData.WPF.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\hr\FootballData.WPF.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\Football.B73C1F19.Up2Date
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\refint\FootballData.WPF.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.genruntimeconfig.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\ref\FootballData.WPF.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WinForms.deps.json
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WinForms.runtimeconfig.json
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WinForms.exe
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WPF.exe
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WPF.deps.json
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WPF.runtimeconfig.json
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WPF.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WPF.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\en\FootballData.WPF.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\hr\FootballData.WPF.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Common.Logging.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Common.Logging.Core.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\CsvHelper.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.barcodes.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.bouncy-castle-connector.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.forms.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.io.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.kernel.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.layout.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.pdfa.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.pdfua.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.sign.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.styledxmlparser.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.svg.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.bouncy-castle-adapter.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.commons.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\BouncyCastle.Crypto.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WinForms.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WinForms.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.DataLayer.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\en\FootballData.WinForms.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy - Copy\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\hr\FootballData.WinForms.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy - Copy\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.csproj.AssemblyReference.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy - Copy\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy - Copy\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\PlayerControl.baml
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy - Copy\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\PlayerStats.baml
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy - Copy\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\SettingsWindow.baml
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy - Copy\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\TeamInfoWindow.baml
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy - Copy\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy - Copy\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\PlayerControl.g.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy - Copy\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\PlayerStats.g.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy - Copy\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\SettingsWindow.g.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy - Copy\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\TeamInfoWindow.g.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy - Copy\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy - Copy\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF_MarkupCompile.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy - Copy\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.g.resources
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy - Copy\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.Properties.Strings2.en.resources
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy - Copy\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.Properties.Strings2.hr.resources
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy - Copy\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.csproj.GenerateResource.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy - Copy\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy - Copy\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.AssemblyInfoInputs.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy - Copy\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.AssemblyInfo.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy - Copy\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.csproj.CoreCompileInputs.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy - Copy\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\en\FootballData.WPF.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy - Copy\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\hr\FootballData.WPF.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy - Copy\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\Football.B73C1F19.Up2Date
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy - Copy\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy - Copy\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\refint\FootballData.WPF.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy - Copy\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy - Copy\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.genruntimeconfig.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\ŠabanAdrianPatrik - Copy - Copy\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\ref\FootballData.WPF.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WinForms.deps.json
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WinForms.runtimeconfig.json
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WinForms.exe
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WPF.exe
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WPF.deps.json
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WPF.runtimeconfig.json
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WPF.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WPF.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\en\FootballData.WPF.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\hr\FootballData.WPF.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Common.Logging.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Common.Logging.Core.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\CsvHelper.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.barcodes.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.bouncy-castle-connector.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.forms.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.io.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.kernel.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.layout.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.pdfa.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.pdfua.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.sign.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.styledxmlparser.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.svg.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.bouncy-castle-adapter.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\itext.commons.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\BouncyCastle.Crypto.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.DataLayer.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WinForms.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.WinForms.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\FootballData.DataLayer.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\en\FootballData.WinForms.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban\FootballData\FootballData.WPF\bin\Debug\net8.0-windows\hr\FootballData.WinForms.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.csproj.AssemblyReference.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\PlayerControl.baml
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\PlayerStats.baml
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\SettingsWindow.baml
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\TeamInfoWindow.baml
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\PlayerControl.g.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\PlayerStats.g.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\SettingsWindow.g.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\TeamInfoWindow.g.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF_MarkupCompile.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.g.resources
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.Properties.Strings2.en.resources
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.Properties.Strings2.hr.resources
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.csproj.GenerateResource.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.AssemblyInfoInputs.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.AssemblyInfo.cs
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.csproj.CoreCompileInputs.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\en\FootballData.WPF.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\hr\FootballData.WPF.resources.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\Football.B73C1F19.Up2Date
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\refint\FootballData.WPF.dll
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.pdb
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\FootballData.WPF.genruntimeconfig.cache
+C:\Users\pazna\Documents\Faks\4. semestar\OOP C# .NET\AdrianPatrikŠaban\FootballData\FootballData.WPF\obj\Debug\net8.0-windows\ref\FootballData.WPF.dll

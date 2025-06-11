@@ -1,0 +1,294 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="FavoriteTeam" xml:space="preserve">
+    <value>Omiljeni Tim:</value>
+  </data>
+  <data name="MatchInfo" xml:space="preserve">
+    <value>Informacije O Utakmici</value>
+  </data>
+  <data name="OpponentTeam" xml:space="preserve">
+    <value>Protivnicki Tim:</value>
+  </data>
+  <data name="Settings" xml:space="preserve">
+    <value>Postavke</value>
+  </data>
+  <data name="WorldCupTitle" xml:space="preserve">
+    <value>FIFA Svjetsko Prvenstvo 2018</value>
+  </data>
+  <data name="WorldCupTitleMen" xml:space="preserve">
+    <value>FIFA Svjetsko Prvenstvo 2018</value>
+  </data>
+  <data name="WorldCupTitleWomen" xml:space="preserve">
+    <value>FIFA Svjetsko Prvenstvo 2019</value>
+  </data>
+  <data name="Tournament" xml:space="preserve">
+    <value>Prvenstvo</value>
+  </data>
+  <data name="Language" xml:space="preserve">
+    <value>Jezik:</value>
+  </data>
+  <data name="WindowSize" xml:space="preserve">
+    <value>Velicina Prozora</value>
+  </data>
+  <data name="Save" xml:space="preserve">
+    <value>Spremi</value>
+  </data>
+  <data name="Cancel" xml:space="preserve">
+    <value>Odustani</value>
+  </data>
+  <data name="TeamName" xml:space="preserve">
+    <value>Ime Tima:</value>
+  </data>
+  <data name="FifaCode" xml:space="preserve">
+    <value>FIFA Kod:</value>
+  </data>
+  <data name="MatchesPlayed" xml:space="preserve">
+    <value>Odigrance Utakmice:</value>
+  </data>
+  <data name="ErrorChangingLanguage" xml:space="preserve">
+    <value>Greska Prilikom Mjenjanja Jezika</value>
+  </data>
+  <data name="ErrorInitializingApp" xml:space="preserve">
+    <value>Greška Prilikom Pokretanja Aplikacije:</value>
+  </data>
+  <data name="NoStartingPlayersFound" xml:space="preserve">
+    <value>Nema Pocetnih Igraca</value>
+  </data>
+  <data name="ErrorPopulatingFavoriteTeamComboBox" xml:space="preserve">
+    <value>Greska Prilikom Ucitavanja ComboBoxa Omiljenog Tima:</value>
+  </data>
+  <data name="ErrorGettingTeams" xml:space="preserve">
+    <value>Greska Prilikom Dohvacanja Timova:</value>
+  </data>
+  <data name="ErrorSettingFavoriteTeamInComboBox" xml:space="preserve">
+    <value>Greska Prilikom Postavljanja Omiljenog Tima u ComboBox:</value>
+  </data>
+  <data name="ErrorSavingFavoriteTeam" xml:space="preserve">
+    <value>Greska Prilikom Spremanja Omiljenog Tima:</value>
+  </data>
+  <data name="ErrorSelectingFavoriteTeam" xml:space="preserve">
+    <value>Greska Prilikom Odabira Omiljenog Tima:</value>
+  </data>
+  <data name="ErrorHandlingOpponentTeamSelection" xml:space="preserve">
+    <value>Greska Prilikom Odabira Protivnickog Tima:</value>
+  </data>
+  <data name="ErrorFetchingPlayersForMatch" xml:space="preserve">
+    <value>Greska Prilikom Dohvacanja Igraca Za Utakmicu</value>
+  </data>
+  <data name="ErrorPopulatingOpponentTeamComboBox" xml:space="preserve">
+    <value>Greska Prilikom Ucitavanja ComboBoxa Protivnickog Tima:</value>
+  </data>
+  <data name="ErrorFetchingOpponentTeams" xml:space="preserve">
+    <value>Greska Prilikom Dohvacanja Protivnickih Timova:</value>
+  </data>
+  <data name="ErrorFetchingMatchResult" xml:space="preserve">
+    <value>Greska Pri Dohvatanju Rezultata Utakmice</value>
+  </data>
+  <data name="ErrorDisplayingPlayerNames" xml:space="preserve">
+    <value>Greska Prilikom Prikazivanja Imena Igraca:</value>
+  </data>
+  <data name="ErrorLoadingSettings" xml:space="preserve">
+    <value>Greska Pri Ucitavanju Postavki:</value>
+  </data>
+  <data name="ErrorChangingChampionship" xml:space="preserve">
+    <value>Greska Prilikom Promjene Prvenstva</value>
+  </data>
+  <data name="ResourceManagerNotInitialized" xml:space="preserve">
+    <value>Resource Manager Nije Inicijaliziran</value>
+  </data>
+  <data name="InvalidResolutionWarning" xml:space="preserve">
+    <value>Nevazeca Rezolucija U Postavkama. Koristi Se Zadana</value>
+  </data>
+  <data name="ErrorApplyingWindowSettings" xml:space="preserve">
+    <value>Greska Pri Primjeni Postavki Prozora</value>
+  </data>
+  <data name="Error" xml:space="preserve">
+    <value>Greska</value>
+  </data>
+  <data name="ExitConfirmationMessage" xml:space="preserve">
+    <value>Jeste Li Sigurni Da Zelite Izaci Iz Aplikacije?</value>
+  </data>
+  <data name="ExitConfirmationTitle" xml:space="preserve">
+    <value>Potvrda Izlaska</value>
+  </data>
+  <data name="ErrorDuringWindowClosing" xml:space="preserve">
+    <value>Greska Prilikom Zatvaranja Prozora:</value>
+  </data>
+  <data name="PleaseSelectFavoriteTeam" xml:space="preserve">
+    <value>Molimo Vas Da Prvo Odaberete Omiljeni Tim</value>
+  </data>
+  <data name="Warning" xml:space="preserve">
+    <value>Upozorenje</value>
+  </data>
+  <data name="ErrorDisplayingFavoriteTeamInfo" xml:space="preserve">
+    <value>Greska Prilikom Prikazivanja Informacija O Omiljenom Timu:</value>
+  </data>
+  <data name="ErrorCastingItemsToTeam" xml:space="preserve">
+    <value>Greska Prilikom Pretvaranja Stavki U Tim</value>
+  </data>
+  <data name="ErrorFindingCountry" xml:space="preserve">
+    <value>Greska Prilikom Pronalazenja Drzave</value>
+  </data>
+  <data name="NoInformationFoundForOpponentTeam" xml:space="preserve">
+    <value>Nema Podataka Za Protivnicki Tim</value>
+  </data>
+  <data name="PleaseSelectOpponentTeamFirst" xml:space="preserve">
+    <value>Molimo Odaberite Protivnicki Tim Prvo</value>
+  </data>
+  <data name="ErrorDisplayingOpponentTeamInfo" xml:space="preserve">
+    <value>Greska Pri Prikazivanju Podataka Za Protivnicki Tim</value>
+  </data>
+  <data name="ErrorInitializingSettingsUI" xml:space="preserve">
+    <value>Greska Prilikom Inicijalizacije Postavki Korisnickog Sucelja:</value>
+  </data>
+  <data name="SettingsNotConfigured" xml:space="preserve">
+    <value>Postavke Nisu Konfigurirane. Aplikacija Ce Se Zatvoriti</value>
+  </data>
+  <data name="SettingsSavedSuccessfully" xml:space="preserve">
+    <value>Postavke Uspjesno Spremljene</value>
+  </data>
+  <data name="Success" xml:space="preserve">
+    <value>Uspjeh</value>
+  </data>
+  <data name="ErrorSavingSettings" xml:space="preserve">
+    <value>Greska Prilikom Spremanja Postavki</value>
+  </data>
+  <data name="SettingsNotConfiguredDefaultApplied" xml:space="preserve">
+    <value>Postavke Nisu Bile Konfigurirane. Primijenjene Su Zadane Postavke</value>
+  </data>
+  <data name="Information" xml:space="preserve">
+    <value>Informacija</value>
+  </data>
+  <data name="ErrorDuringSettingsCancel" xml:space="preserve">
+    <value>Greska Prilikom Otkazivanja Postavki:</value>
+  </data>
+  <data name="ErrorHandlingKeyEvent" xml:space="preserve">
+    <value>Greska Prilikom Obrade Dogadaja Kljuca</value>
+  </data>
+  <data name="ErrorOpeningWinFormsApp" xml:space="preserve">
+    <value>Greska Prilikom Otvaranja WinForms Aplikacije</value>
+  </data>
+  <data name="OpenWinFormsApp" xml:space="preserve">
+    <value>Otvori Win Forms Aplikaciju</value>
+  </data>
+  <data name="DataSource" xml:space="preserve">
+    <value>Izvor Podataka:</value>
+  </data>
+</root>
